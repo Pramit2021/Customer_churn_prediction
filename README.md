@@ -39,15 +39,46 @@ Kaplan-Meier Survival Curve:
 
 From above graph, we can say that
 
-AS expected, for telcom, churn is relatively low. The company was able to retain more than 60% of its customers even after 72 months.
-There is a constant decrease in survival probability probability between 3-60 months.
-After 60 months or 5 years, survival probability decreases with a higher rate.
-Log-Rank Test:
+- AS expected, for telcom, churn is relatively low. The company was able to retain more than 60% of its customers even after 72 months.
+
+- There is a constant decrease in survival probability probability between 3-60 months.
+
+- After 60 months or 5 years, survival probability decreases with a higher rate.
+  
+**Log-Rank Test:** 
 
 Log-rank test is carried out to analyze churning probabilities group wise and to find if there is statistical significance between groups. The plots show survival curve group wise.
 
   
+<p align="center">
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/gender.png" width="250" height="200"/> 
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/Senior%20Citizen.png" width="250" height="200"/>
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/partner_1.png" width="250" height="200"/> 
+</p>
 
+<p align="center">
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/dependents.png" width="250" height="200"/> 
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/phoneservice.png" width="250" height="200"/>
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/MultipleLines.png" width="250" height="200"/> 
+</p>
+
+<p align="center">
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/InternetService.png" width="250" height="200"/> 
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/OnlineSecurity.png" width="250" height="200"/> 
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/OnlineBackup.png" width="250" height="200"/> 
+</p>
+
+<p align="center">
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/DeviceProtection.png" width="250" height="200"/> 
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/TechSupport.png" width="250" height="200"/>
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/Contract.png" width="250" height="200"/> 
+</p>
+
+<p align="center">
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/StreamingMovies.png" width="250" height="200"/>
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/paymentmethod.png" width="250" height="200"/> 
+<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/PaperlessBilling.png" width="250" height="200"/>
+</p>
   
 
   
