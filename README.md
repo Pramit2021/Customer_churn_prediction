@@ -32,6 +32,7 @@ Objective: The objective of this analysis is to utilize non-parametric and semi-
   
 Kaplan-Meier Survival Curve:
 
+<img width="267" alt="SurvivalCurve" src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/21498130-d26f-4f57-a389-491c6eb91dc2">
 
 
 From above graph, we can say that
