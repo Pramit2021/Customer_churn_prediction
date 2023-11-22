@@ -47,6 +47,7 @@ From above graph, we can say that
 **Log-Rank Test:** 
 
 Log-rank test is carried out to analyze churning probabilities group wise and to find if there is statistical significance between groups. The plots show survival curve group wise.
+
 <img width="272" alt="partner_1" src="<img width="272" alt="partner_1" src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/1498fd0b-716f-4670-b738-ebef8049d511">
 ">
 
