@@ -176,7 +176,7 @@ For the modelling, I will use tress based Ensemble method as we do not have line
 The final model resulted in 0.62 F1 score and 0.85 ROC-AUC. The resulting plots can be seen below.
 
 <p align="center">
-<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/96e6082a-6f0d-4c05-af32-a1ef1c152065" width="600" height="300"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/96e6082a-6f0d-4c05-af32-a1ef1c152065" width="600" height="500"/>
 </p>
 
 From the feature importance plot, we can see which features govern the customer churn.
