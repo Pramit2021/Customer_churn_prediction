@@ -8,48 +8,6 @@ Predictive analytics use churn prediction models that predict customer churn by 
 
 In this project I aim to perform customer survival analysis and build a model which can predict customer churn. I also aim to build an app which can be used to understand why a specific customer would stop the service and to know his/her expected lifetime value.
 
+# Final App
 
-# Project organization
-.
-
-├── Images/                             : contains images
-
-├── static/                             : plots to show gauge chart, hazard and survival curve, shap values in Flask App 
-
-│   └── images/
-
-│       ├── hazard.png
-
-│       ├── surv.png
-
-│       ├── shap.png
-
-│       └── new_plot.png
-
-├── templates/                          : contains html template for flask app
-
-│   └── index.html
-
-├── Customer Survival Analysis.ipynb    : Survival Analysis kaplan-Meier curve, log-rank test and Cox-proportional Hazard model
-
-├── Exploratory Data Analysis.ipynb     : Data Analysis to understand customer data
-
-├── Churn Prediction Model.ipynb        : Random Forest model to predict customer churn
-
-├── app.py                              : Flask App
-
-├── app-pic.png                         : Final App image  
-
-├── explainer.bz2                       : Shap Explainer
-
-├── model.pkl                           : Random Forest model
-
-├── survivemodel.pkl                    : Cox-proportional Hazard model
-
-├── requirements.txt                    : requirements to run this model
-
-├── Procfile                            : procfile for app deployment
-
-├── LICENSE.md                          : MIT License
-
-└── README.md                           : Report
+![Screenshot 2023-11-22 162709](https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/57c3a583-02ee-4334-b679-c3d554a4155a)
