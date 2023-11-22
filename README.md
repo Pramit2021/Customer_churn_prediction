@@ -180,3 +180,9 @@ The final model resulted in 0.62 F1 score and 0.85 ROC-AUC. The resulting plots 
 </p>
 
 From the feature importance plot, we can see which features govern the customer churn.
+
+# Flask app
+
+I saved the final tuned Random Forest model and deployed it using Flask web app. Flask is a micro web framework written in Python.  It is designed to make getting started quick and easy, with the ability to scale up to complex applications. I saved the shap value explainer tuned using random forest model to show shap plots in app. I have also utilized the cox-proportional hazard model to show survival curve and hazard curve, and to calculate expected customer lifetime value. 
+
+The final app shows churning probability, gauge chart of how severe a customer is and shap values based on customer's data. The final app layout can be seen above.  
