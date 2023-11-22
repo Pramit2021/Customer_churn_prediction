@@ -20,11 +20,16 @@ For example, if the event of interest is heart attack, then the survival time ca
 
 Objective: The objective of this analysis is to utilize non-parametric and semi-parametric methods of survival analysis to answer the following questions.
 
-How the likelihood of the customer churn changes over time?
-How we can model the relationship between customer churn, time, and other customer characteristics?
-What are the significant factors that drive customer churn?
-What is the survival and Hazard curve of a specific customer?
-What is the expected lifetime value of a customer?
+- How the likelihood of the customer churn changes over time?
+
+- How we can model the relationship between customer churn, time, and other customer characteristics?
+
+- What are the significant factors that drive customer churn?
+
+- What is the survival and Hazard curve of a specific customer?
+
+- What is the expected lifetime value of a customer?
+  
 Kaplan-Meier Survival Curve:
 
 
