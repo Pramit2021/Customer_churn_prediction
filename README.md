@@ -1,4 +1,4 @@
-# Customer churn prediction
+## Customer churn prediction
 
 Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers.
 
@@ -8,11 +8,11 @@ Predictive analytics use churn prediction models that predict customer churn by 
 
 In this project I aim to perform customer survival analysis and build a model which can predict customer churn. I also aim to build an app which can be used to understand why a specific customer would stop the service and to know his/her expected lifetime value.
 
-# Final App
+## Final App
 
   ![Screenshot 2023-11-22 162709](https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/57c3a583-02ee-4334-b679-c3d554a4155a)
 
-# Customer survival Analysis
+## Customer survival Analysis
 
 Survival Analysis: Survival analysis is generally defined as a set of methods for analyzing data where the outcome variable is the time until the occurrence of an event of interest. The event can be death, occurrence of a disease, marriage, divorce, etc. The time to event or survival time can be measured in days, weeks, years, etc.
 
@@ -113,7 +113,7 @@ To calculate customer lifetime value, I would multiply the Monthly charges the c
 
 I utilize the survival function of a customer to calculate its expected life time. I would like to be little bit conservative and consider the customer is churned when the survival probability of him is 10%.
 
-# Customer Churn prediction
+## Customer Churn prediction
 
 I aim to implement a machine learning model to accurately predict if the customer will churn or not.
 
@@ -181,8 +181,14 @@ The final model resulted in 0.62 F1 score and 0.85 ROC-AUC. The resulting plots 
 
 From the feature importance plot, we can see which features govern the customer churn.
 
-# Flask app
+## Flask app
 
 I saved the final tuned Random Forest model and deployed it using Flask web app. Flask is a micro web framework written in Python.  It is designed to make getting started quick and easy, with the ability to scale up to complex applications. I saved the shap value explainer tuned using random forest model to show shap plots in app. I have also utilized the cox-proportional hazard model to show survival curve and hazard curve, and to calculate expected customer lifetime value. 
 
 The final app shows churning probability, gauge chart of how severe a customer is and shap values based on customer's data. The final app layout can be seen above.  
+
+
+## Created by
+
+- Pramit Ray
+- Vaibhav Malhotra
