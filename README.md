@@ -10,7 +10,7 @@ In this project I aim to perform customer survival analysis and build a model wh
 
 # Final App
 
-![Screenshot 2023-11-22 162709](https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/57c3a583-02ee-4334-b679-c3d554a4155a)
+<a align="center">![Screenshot 2023-11-22 162709](https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/57c3a583-02ee-4334-b679-c3d554a4155a)</a>
 
 # Customer survival Analysis
 
