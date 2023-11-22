@@ -11,24 +11,45 @@ In this project I aim to perform customer survival analysis and build a model wh
 
 # Project organization
 .
+
 ├── Images/                             : contains images
+
 ├── static/                             : plots to show gauge chart, hazard and survival curve, shap values in Flask App 
+
 │   └── images/
+
 │       ├── hazard.png
+
 │       ├── surv.png
+
 │       ├── shap.png
+
 │       └── new_plot.png
+
 ├── templates/                          : contains html template for flask app
+
 │   └── index.html
+
 ├── Customer Survival Analysis.ipynb    : Survival Analysis kaplan-Meier curve, log-rank test and Cox-proportional Hazard model
+
 ├── Exploratory Data Analysis.ipynb     : Data Analysis to understand customer data
+
 ├── Churn Prediction Model.ipynb        : Random Forest model to predict customer churn
+
 ├── app.py                              : Flask App
+
 ├── app-pic.png                         : Final App image  
+
 ├── explainer.bz2                       : Shap Explainer
+
 ├── model.pkl                           : Random Forest model
+
 ├── survivemodel.pkl                    : Cox-proportional Hazard model
+
 ├── requirements.txt                    : requirements to run this model
+
 ├── Procfile                            : procfile for app deployment
+
 ├── LICENSE.md                          : MIT License
+
 └── README.md                           : Report
