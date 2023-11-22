@@ -81,13 +81,7 @@ Log-rank test is carried out to analyze churning probabilities group wise and to
 <img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/fe4f35e1-c527-4929-85aa-daee8c5e7acb" width="250" height="200"/> 
 <img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/ee3336de-33bf-47bd-9a21-f25d7c5f1d73" width="250" height="200"/>
 </p>
-  
 
-  
-
-  
-
-  
 
 From above graphs we can conclude following:
 
@@ -103,14 +97,14 @@ From above graphs we can conclude following:
 I use cox-proportional hazard model to perform survival regression analysis on customer data. This model is used to relate several risk factors or exposures simultaneously to survival time. In a Cox proportional hazards regression model, the measure of effect is the hazard rate, which is the risk or probability of suffering the event of interest given that the participant has survived up to a specific time. The model fits the data well and the coefficients are shown below.
 
 <p align="center">
-<img src="https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/Images/Survival-analysis.png" width="750" height="500"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/e554d265-d2a3-4d76-b7b9-35e2eb35c249" width="750" height="500"/>
 </p
 
 Using this model we can calculate the survival curve and hazard curve of any customer as shown below. These plots are useful to know the remaining life of a customer.
 
 <p align="center">
-<img src="https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/Images/survival.png" width="400" height="300"/>
-<img src="https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/Images/hazard.png" width="400" height="300"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/4a1b1321-a81f-4004-bc89-9a28d075772c" width="400" height="300"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/edbd5cba-6e3b-4d7a-99c1-b362549338cf" width="400" height="300"/>
 </p>
 
 **Customer Lifetime Value:**
