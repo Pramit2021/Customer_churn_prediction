@@ -47,36 +47,37 @@ From above graph, we can say that
 **Log-Rank Test:** 
 
 Log-rank test is carried out to analyze churning probabilities group wise and to find if there is statistical significance between groups. The plots show survival curve group wise.
+<img width="272" alt="partner_1" src="<img width="272" alt="partner_1" src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/1498fd0b-716f-4670-b738-ebef8049d511">
+">
 
-  
 <p align="center">
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/gender.png" width="250" height="200"/> 
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/Senior%20Citizen.png" width="250" height="200"/>
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/partner_1.png" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/1f9ca7a7-99f5-4156-8f31-2d52e203f6b8" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/49da2cd0-98d2-45d3-bc43-1068396346d8" width="250" height="200"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/43ad1415-b53c-4ef1-a3a8-9250f1bef01d" width="250" height="200"/> 
 </p>
 
 <p align="center">
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/dependents.png" width="250" height="200"/> 
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/phoneservice.png" width="250" height="200"/>
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/MultipleLines.png" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/5bc081d9-8c39-426b-a576-38d8a3345e23" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/1bcd866f-4e68-4aab-afc3-a7ac249de088" width="250" height="200"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/1965a084-8733-4bc6-906f-0ef4ceedd7b7" width="250" height="200"/> 
 </p>
 
 <p align="center">
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/InternetService.png" width="250" height="200"/> 
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/OnlineSecurity.png" width="250" height="200"/> 
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/OnlineBackup.png" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/831d98c0-25ec-4df5-b2c6-bfe06b74ee5f" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/0fbf8084-35ff-4e87-a62b-c499b836101d" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/45113e4d-6c8c-4679-a60a-adc93965077a" width="250" height="200"/> 
 </p>
 
 <p align="center">
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/DeviceProtection.png" width="250" height="200"/> 
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/TechSupport.png" width="250" height="200"/>
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/Contract.png" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/52f2eb12-771f-4ffe-85e9-84a22bfe1c26" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/705a9b0e-4fc5-4707-ac4d-ca47de2a211c" width="250" height="200"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/a009b5a1-ef80-45f4-90d7-aa8041cc4687" width="250" height="200"/> 
 </p>
 
 <p align="center">
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/StreamingMovies.png" width="250" height="200"/>
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/paymentmethod.png" width="250" height="200"/> 
-<img src="https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction/blob/master/Images/PaperlessBilling.png" width="250" height="200"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/3a6b0385-48ff-47fb-bdab-188d044b0909" width="250" height="200"/>
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/fe4f35e1-c527-4929-85aa-daee8c5e7acb" width="250" height="200"/> 
+<img src="https://github.com/Pramit2021/Customer_churn_prediction/assets/93142399/ee3336de-33bf-47bd-9a21-f25d7c5f1d73" width="250" height="200"/>
 </p>
   
 
