@@ -89,21 +89,29 @@ Log-rank test is carried out to analyze churning probabilities group wise and to
 
 From above graphs we can conclude following:
 
-Customer's Gender and the phone service type are not indictive features and their p value of log rank test is above threshold value 0.05.
-If customer is young and has a family, he or she is less likely to churn. The reason might be the busy life, more money or another factors.
-If customer is not enrolled in services like online backup, online security, device protection, tech support, streaming Tv and streaming movies even though having active internet service, the survival probability is less.
-The company should traget customers who opt for internet service as their survival probability constantly descreases. Also, Fiber Optilc type of Internet Service is costly and fast compared to DSL and this might be the reason of higher customer churning.
-More offers should be given to customers who opt for month-to-month contract and company should target customers to subscribe for long-term service.
-If customer's paying method is automatic, he or she is less likely to churn. The reason is in the case of electronic check and mailed check, a customer has to make an effort to pay and it takes time.
-Survival Regression: I use cox-proportional hazard model to perform survival regression analysis on customer data. This model is used to relate several risk factors or exposures simultaneously to survival time. In a Cox proportional hazards regression model, the measure of effect is the hazard rate, which is the risk or probability of suffering the event of interest given that the participant has survived up to a specific time. The model fits the data well and the coefficients are shown below.
+- Customer's Gender and the phone service type are not indictive features and their p value of log rank test is above threshold value 0.05.
+- If customer is young and has a family, he or she is less likely to churn. The reason might be the busy life, more money or another factors.
+- If customer is not enrolled in services like online backup, online security, device protection, tech support, streaming Tv and streaming movies even though having active internet service, the survival probability is less.
+- The company should traget customers who opt for internet service as their survival probability constantly descreases. Also, Fiber Optilc type of Internet Service is costly and fast compared to DSL and this might be the reason of higher customer churning.
+- More offers should be given to customers who opt for month-to-month contract and company should target customers to subscribe for long-term service.
+- If customer's paying method is automatic, he or she is less likely to churn. The reason is in the case of electronic check and mailed check, a customer has to make an effort to pay and it takes time.
 
+**Survival Regression:**
 
+I use cox-proportional hazard model to perform survival regression analysis on customer data. This model is used to relate several risk factors or exposures simultaneously to survival time. In a Cox proportional hazards regression model, the measure of effect is the hazard rate, which is the risk or probability of suffering the event of interest given that the participant has survived up to a specific time. The model fits the data well and the coefficients are shown below.
+
+<p align="center">
+<img src="https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/Images/Survival-analysis.png" width="750" height="500"/>
+</p
 
 Using this model we can calculate the survival curve and hazard curve of any customer as shown below. These plots are useful to know the remaining life of a customer.
 
- 
+<p align="center">
+<img src="https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/Images/survival.png" width="400" height="300"/>
+<img src="https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/Images/hazard.png" width="400" height="300"/>
+</p>
 
-Customer Lifetime Value:
+**Customer Lifetime Value:**
 
 To calculate customer lifetime value, I would multiply the Monthly charges the customer is paying to Telcom and the expected life time of the customer.
 
